@@ -4,7 +4,7 @@ a = int(input("Masukan Nilai a disini = "))
 b = int(input("Masukan Nilai b disini = "))
 
 """%d = float, %f = float (6 angka di belakang koma), %.2f = dua angka di belakang koma"""
-# Operator Penjumlahan
+# Operator Penjumlahan #
 c = a + b
 print ("%d + %d = %d " % (a,b,c))
 
